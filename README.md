@@ -21,10 +21,13 @@ This app applies these technologies: HTML/CSS, GitHub, Heroku and Bootstrap. It 
 * Updates from Bootstrap-Portfolio incudes:
   * Change of fontsize
   * Include four portfolio items : Healthcare Scheduling System app, Eat da Burger App, AirBnB TLC app and Hangman game app
-  * Include '''resume.html'''  
+  * Include 
+      resume.html  
 
 * Create the index.php and composer.json inside Bootstrap-Portfolio
-  * Inside <index.php> we must have '''<?php include_once("yourFileNameHere"); ?>''' and inside the <composer.json> file we must have <{}> 
+  * Inside <index.php> we must have 
+      <?php include_once("yourFileNameHere"); ?> 
+  and inside the <composer.json> file we must have <{}> 
 
 * Deploy the new Bootstrap-powered portfolio to Heroku. 
 
