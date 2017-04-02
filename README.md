@@ -24,10 +24,10 @@ This app applies these technologies: HTML/CSS, GitHub, Heroku and Bootstrap. It 
   * Include 
     resume.html  
 
-* Create the index.php and composer.json inside Bootstrap-Portfolio
-  * Inside <index.php> we must have 
+* Create the index.php and composer.json inside Portfolio
+  * Inside index.php we must have 
    <?php include_once("yourFileNameHere"); ?> 
-  and inside the <composer.json> file we must have 
+  and inside the composer.json file we must have 
     {} 
 
 * Deploy the new Bootstrap-powered portfolio to Heroku. 
